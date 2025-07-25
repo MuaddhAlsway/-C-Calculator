@@ -1,0 +1,38 @@
+-: Difficulty level: Easy :-
+
+This project aims to build a calculator that 
+can perform simple arithmetic  operations and 
+display the results to users.
+
+
+
+Learning outcomes:
+
+- Understanding of variables, data types, and operators in C
+- Use of multiple library functions and work with user input
+- Implementation of control flow statements like if-else statements or switch statements 
+- Performing basic arithmetic operations 
+
+What it takes to execute this C programming project:
+
+- Include the stdio.h library for input-output operations in C.
+- Define the main() function where our code execution begins.
+    -- Inside the main function, 
+    declare three variables: a, b, and choice
+- Ask the user to enter two integer numbers
+        and store them in variables a and b using the scanf() 
+        function.
+- Provide the user with choices for different 
+    calculator operations and store their choice in the
+     ‘choice’ variable.
+- Using a switch statement, check the user’s choice.
+    For example, if the choice is 1, 
+    we perform addition (a + b); 
+    for choice 2, we perform subtraction, 
+    and so on, and display the result.
+- In the case of division, we check if 
+    the divisor b is not zero before performing the division to avoid 
+        a division-by-zero error
+    If the user enters a choice that is not 
+        in the provided list, the default case
+        is executed, and an error message is printed.
