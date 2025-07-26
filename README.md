@@ -99,6 +99,12 @@ gcc calculator.c -o calculator
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
+
+## 🔗 Link Post: 
+<a href="https://www.linkedin.com/posts/muaddh-alsway_deepdiveinc-cprogramming-deepdiveinc-activity-7354600182467977216-psIy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+
 ## ⚖️ Notes
 
  This project is open for personal, educational, and non-commercial use.  
